@@ -8,6 +8,15 @@ gcr.io/spinnaker-marketplace/orca:0.10.0-20180221133510
 gcr.io/spinnaker-marketplace/gate:0.10.0-20180221133510
 gcr.io/spinnaker-marketplace/front50:0.9.0-20180221133510
 gcr.io/spinnaker-marketplace/rosco:0.5.0-20180221133510
+gcr.io/spinnaker-marketplace/halyard:stable
+gcr.io/spinnaker-marketplace/clouddriver:stable
+gcr.io/spinnaker-marketplace/echo:stable
+gcr.io/spinnaker-marketplace/deck:stable
+gcr.io/spinnaker-marketplace/igor:stable
+gcr.io/spinnaker-marketplace/orca:stable
+gcr.io/spinnaker-marketplace/gate:stable
+gcr.io/spinnaker-marketplace/front50:stable
+gcr.io/spinnaker-marketplace/rosco:stable
 EOM
 
 rename() {
